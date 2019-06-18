@@ -7,7 +7,7 @@ Full description: Cholera due to Vibrio cholerae 01, biovar cholerae
 
 Sources:
 
-Collated by:
+Collated by:16 /06/ 2019
 Collation date:
 
 Reviewed by:
